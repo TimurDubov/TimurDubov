@@ -1,6 +1,6 @@
-About me
+![Header](https://github.com/TimurDubov/TimurDubov/blob/main/assets/GitHubLogo.png) 
 
-Header 
+## Hi, I’m Timur 👋👨🏻‍💻
 
 Languages and Tools
 
