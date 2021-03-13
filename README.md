@@ -16,14 +16,13 @@
 The main software stack that I know:
 
 ![Java](https://img.shields.io/badge/-JAVA-6400E1?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/-KOTLIN-5E00E2?style=for-the-badge&logo=kotlin&logoColor=ffffff)
-![ANDROID](https://img.shields.io/badge/-ANDROIDSDK-5311E3?style=for-the-badge&logo=android&logoColor=ffffff)
-![Gradle](https://img.shields.io/badge/-GRADLE-4832E6?style=for-the-badge&logo=gradle)
-![FireBase](https://img.shields.io/badge/-FIREBASE-4451E9?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-3F68EA?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-3B74EC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3A7DEB?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-3A81EC?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-5311E3?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![ANDROID](https://img.shields.io/badge/-ANDROIDSDK-4832E6?style=for-the-badge&logo=android&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/-GRADLE-4451E9?style=for-the-badge&logo=gradle)
+![FireBase](https://img.shields.io/badge/-FIREBASE-3F68EA?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-3B74EC?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-3A7DEB?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3A81EC?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
 
 ### Follow Me
