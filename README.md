@@ -12,9 +12,32 @@
 * 💬 I am responsible, stress-resistant, hardworking, and plus I have good soft skills. I love to develop and improve myself, as well as learn something new. And I also like dogs
 
 
-Languages and Tools
+### Languages and Tools
+The main software stack that I know:
 
-Follow me
+![Java](https://img.shields.io/badge/-JAVA-6400E1?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-5E00E2?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![ANDROID](https://img.shields.io/badge/-ANDROIDSDK-5311E3?style=for-the-badge&logo=android&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/-GRADLE-4832E6?style=for-the-badge&logo=gradle)
+![FireBase](https://img.shields.io/badge/-FIREBASE-4451E9?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-3F68EA?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-3B74EC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3A7DEB?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-3A81EC?style=for-the-badge&logo=linux&logoColor=ffffff)
+
+
+### Follow Me
+
+You can contact or follow me via these attached links:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-6400E1?style=for-the-badge&logo=Southwest-Airlines&logoColor=ffffff)](http://t.me/noobariouse)
+[![HABR](https://img.shields.io/badge/-HABR-5311E3?style=for-the-badge&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/noobariouse/)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-4832E6?style=for-the-badge&logo=vk&logoColor=ffffff)](https://vk.com/timur_dubov)
+[![FaceBook](https://img.shields.io/badge/-FaceBook-4451E9?style=for-the-badge&logo=facebook&logoColor=ffffff)](facebook.com/DubovTimur)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3F68EA?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timur-dubov/)
+[![Instagram](https://img.shields.io/badge/-Instagram-3B74EC?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/tmrdbv/)
+[![Twitter](https://img.shields.io/badge/-Twitter-3A7DEB?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/tmrdbv/)
+[![GMail](https://img.shields.io/badge/-Gmail-3A81EC?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:tdubov98@gmail.com)
 
 
 
